@@ -539,11 +539,11 @@
       "inglês": "join (into a ring)",
       "português": "unir (em tricô circular); juntar fio, fechar em círculo"
     },
-    "k1_p1_rib": {
+    "k1 p1 rib": {
       "inglês": "k1 p1 rib; k2 p2 rib",
       "português": "barra 1×1; barra 2×2"
     },
-    "kitchener_stitch": {
+    "kitchener stitch": {
       "inglês": "kitchener stitch",
       "português": "costura invisível"
     },
@@ -555,7 +555,7 @@
       "inglês": "Knit through the back loop to twist the stitch",
       "português": "Meia invertido, meia torcido"
     },
-    "knit_stitches": {
+    "knit x stitches": {
       "inglês": "knit [number of] stitches",
       "português": "tecer [número de] pontos e meia"
     },
@@ -567,23 +567,23 @@
       "inglês": "knit in front and back of stitch",
       "português": "trabalhar em meia pela frente e por trás do mesmo ponto"
     },
-    "knit_in_the_round": {
-      "inglês": "knit in the round",
+    "kniting the round": {
+      "inglês": "...",
       "português": "tecer em agulha circular"
     },
-    "K_up_1": {
-      "inglês": "knit into next stitch one row below",
-      "português": "tricote no próximo ponto um ponto duplo"
+    "K up to the end of the row": {
+      "inglês": "...",
+      "português": "tricote em meia até o fim da carreira"
     },
     "k2fb": {
       "inglês": "Knit into the front and back of the next two stitches to increase to four stitches",
       "português": "tricote os dois pontos seguintes pela frente e por trás para aumentar para quatro pontos."
     },
-    "K1inc1": {
+    "k1 inc1": {
       "inglês": "Knit one increase one",
-      "português": "em meia tricotar 2 vezes o mesmo ponto"
+      "português": "tricote 1 ponto em meia, faça 1 aumento"
     },
-    "k1bl": {
+    "k1tbl": {
       "inglês": "knit one through back of loop",
       "português": "1 meia torcido"
     },
@@ -595,7 +595,7 @@
       "inglês": "knit slip stitch through the back",
       "português": "tricote torcido o ponto tirado sem fazer"
     },
-    "k_tbl": {
+    "k tbl": {
       "inglês": "knit trough back of loop",
       "português": "faça o meia pela alça de trás"
     },
@@ -1123,15 +1123,19 @@
       "inglês": "slip",
       "português": "deslizar, passar o ponto sem fazer"
     },
+    "sl1": {
+      "inglês": "slip 1 (stitch)",
+      "português": "deslizar, passar 1 ponto sem fazer de uma agulha para outra"
+    },
     "ssp": {
       "inglês": "slip 2 stitches as if to purl, purl together",
-      "português": "Mate em tricô"
+      "português": "Mate simples em tricô"
     },
     "sskp": {
       "inglês": "slip 2 stitches together as if to knit, knit next stitch, pass slipped stitches over",
-      "português": "passar dois pontos juntos para a outra agulha"
+      "português": "mate duplo em meia: passar dois pontos juntos em meia para a outra agulha, tricotar o ponto seguinte e passar os pontos sem fazer sobre o ponto tricotado"
     },
-    "slip_marker": {
+    "slip marker": {
       "inglês": "slip marker",
       "português": "passar o marcador"
     },
@@ -1147,18 +1151,35 @@
       "inglês": "slip one, knit two together, passa slip stitch over the knit 2 together",
       "português": "Mate duplo"
     },
-    "s1_wyif": {
+    "s1 wyif": {
       "inglês": "Slip one stitch purlwise with yarn in front",
-      "português": "Deslize um ponto como se fosse tecer em tricô"
+      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio na frente"
     },
-    "sl_st": {
+    "sl1 wyif": {
+      "inglês": "Slip one stitch purlwise with yarn in front",
+      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio na frente"
+    },
+    "s1 wyib": {
+      "inglês": "Slip one stitch purlwise with yarn in front",
+      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio atrás do trabalho"
+    },
+    "sl1 wyib": {
+      "inglês": "Slip one stitch purlwise with yarn in front",
+      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio atrás do trabalho"
+    },
+    "sl st": {
       "inglês": "slip stitch",
       "português": "passe o ponto"
     },
-    "ssk": {
-      "inglês": "slip stitch knit",
-      "português": "mate duplo"
+    "sl1 st": {
+      "inglês": "slip 1 stitch",
+      "português": "passe 1 ponto"
     },
+    "ssk": {
+      "inglês": "slip slip knit",
+      "português": "mate simples; diminuição à esquerda"
+    },
+    
     "small": {
       "inglês": "small",
       "português": "pequeno(s)"
@@ -1235,9 +1256,13 @@
       "inglês": "stockinette knickers",
       "português": "calcinha de malha"
     },
-    "St_st": {
+    "St st": {
       "inglês": "stockinette stitch",
       "português": "tricô de um lado e meia do outro"
+    },
+    "stockinette stitch": {
+      "inglês": "same as jersey stitch",
+      "português": "ponto jersey; tricô de um lado e meia do outro"
     },
     "stockings": {
       "inglês": "stockings",
@@ -1245,7 +1270,11 @@
     },
     "strand": {
       "inglês": "strand",
-      "português": "retorcido, trançado"
+      "português": "retorcido, trançado; fio (dependendo do contexto)"
+    },
+    "stranded": {
+      "inglês": "yarn that stay behind the work; float",
+      "português": "fio que fica retorcido, trançado atrás do trabalho quando trabalhamos com diferentes fios"
     },
     "strap": {
       "inglês": "strap",
@@ -1295,11 +1324,11 @@
       "inglês": "thread",
       "português": "fio, pedaço de fio"
     },
-    "three_times": {
+    "three times": {
       "inglês": "three times",
       "português": "três vezes"
     },
-    "three-needle_bind-off": {
+    "three needle bind-off": {
       "inglês": "three-needle bind-off",
       "português": "arremate feito com três agulhas"
     },
@@ -1319,7 +1348,7 @@
       "inglês": "tip",
       "português": "ponta"
     },
-    "to_cast_off_stitches": {
+    "to cast off stitches": {
       "inglês": "to cast off stitches",
       "português": "rematar pontos de tricô"
     },

@@ -1,41 +1,43 @@
 // Função para buscar o termo no arquivo JSON
 async function buscarTermo(termo) {
-    try {
+  try {
       const resposta = await fetch('assets/data.json');
       const dados = await resposta.json();
-  
-      // Normalizar o termo para evitar problemas com case sensitivity e espaços em branco
+
       const termoNormalizado = termo.trim().toLowerCase();
-  
-      // Procurar o termo no objeto JSON, normalizando os valores para comparação
-      const termoEncontrado = dados[termoNormalizado];
-  
-      // Limpar os resultados anteriores
+
+      // Procurar o termo em todas as chaves do objeto
+      const resultados = [];
+      for (const chave in dados) {
+          if (chave.toLowerCase().includes(termoNormalizado)) {
+              resultados.push({
+                  chave,
+                  ...dados[chave]
+              });
+          }
+      }
+
+      // Limpar os resultados anteriores e adicionar os novos resultados
       const resultadoContainer = document.getElementById('resultado');
       resultadoContainer.innerHTML = '';
-  
-      if (termoEncontrado) {
-        // Cria um novo elemento div com a classe item-resultado
+      resultados.forEach(resultado => {
         const novaDiv = document.createElement('div');
         novaDiv.classList.add('item-resultado');
-  
-        // Adiciona o conteúdo HTML à nova div
         novaDiv.innerHTML = `
-          <h2>${termo}</h2>
-          <p>Inglês: ${termoEncontrado.inglês}</p>
-          <p>Português: ${termoEncontrado.português}</p>
+            <h2>${resultado.chave}</h2>
+            <p>Inglês: ${resultado.inglês}</p>
+            <p>Português: ${resultado.português}</p>
         `;
-  
-        // Adiciona a nova div ao elemento resultado
         resultadoContainer.appendChild(novaDiv);
-      } else {
-        alert('Termo não encontrado.');
-      }
-    } catch (error) {
-      console.error('Erro ao buscar o termo:', error);
-    }
-  }
+    });
 
+      if (resultados.length === 0) {
+          alert('Termo não encontrado.');
+      }
+  } catch (error) {
+      console.error('Erro ao buscar o termo:', error);
+  }
+}
   // Obtém o elemento do input e do botão
   const input = document.querySelector('input');
   const botao = document.querySelector('button');
@@ -45,3 +47,11 @@ async function buscarTermo(termo) {
     const termoBuscado = input.value;
     buscarTermo(termoBuscado);
   });
+
+  // Adiciona um event listener ao input para detectar a tecla Enter
+  input.addEventListener('keypress', (event) => {
+  if (event.key === 'Enter') {
+      const termoBuscado = input.value;
+      buscarTermo(termoBuscado);
+  }
+});

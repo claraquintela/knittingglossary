@@ -23,7 +23,9 @@ h1 {
     color: #222831; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
+
 }
+
 
 /* Estiliza as seções da página */
 section {
@@ -31,6 +33,9 @@ section {
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
     margin-bottom: 3rem; /* Espaçamento abaixo de cada seção */
+    position: fixed;
+ 
+
 }
 
 /* Estiliza os inputs dentro das seções */
@@ -60,6 +65,14 @@ section button {
 section button:hover {
     background-color: #30475E; /* Muda a cor de fundo ao passar o mouse */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra mais intensa */
+}
+
+#resultado {
+    max-height: 60vh;
+    max-width: 80vh;
+    overflow-y: auto;
+    margin-top: 5rem;
+    
 }
 
 /* Estiliza a caixa de resultados da pesquisa */
