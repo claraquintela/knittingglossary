@@ -11,11 +11,36 @@ body {
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
-    justify-content: center; /* Centraliza os itens verticalmente */
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
 }
+
+header{
+    display: flex;
+    position: fixed;
+    align-items: center; /* Centraliza os itens horizontalmente */
+    
+    img {
+        width: 25%;
+    }
+
+    ul {
+        display: flex;
+        justify-content: space-around;
+        width: 200%;
+        background-color: #F5F7F8;
+        border-radius: 100px;
+        padding: 1rem;
+        margin: 0;
+        list-style: none;
+    }
+
+    li {
+        text-decoration: none;
+    }
+}
+
 
 /* Estiliza os títulos h1 */
 h1 {
@@ -31,7 +56,9 @@ h1 {
 section {
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
+    justify-content: center; /* Centraliza os itens verticalmente */
     align-items: center; /* Centraliza os itens horizontalmente */
+    margin-top: 20rem;
     margin-bottom: 3rem; /* Espaçamento abaixo de cada seção */
     position: fixed;
  
