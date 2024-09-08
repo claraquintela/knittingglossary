@@ -9,11 +9,11 @@
     },
     "alt": {
       "inglês": "alternate",
-      "português": "substituir, alternado(a)(s)"
+      "português": "trocar, alternar, substituto, alternado(a)(s)"
     },
     "AC": {
-      "inglês": "Alternate color",
-      "português": "cor contrastante"
+      "inglês": "alternate color",
+      "português": "trocar de cor, segunda cor"
     },
     "ankle": {
       "inglês": "ankle",
@@ -25,47 +25,47 @@
     },
     "armhole": {
       "inglês": "armhole; armhole depth",
-      "português": "cava"
+      "português": "cava; altura da cava"
     },
     "around": {
       "inglês": "around",
       "português": "em volta"
     },
-    "around_the_corner": {
+    "around the corner": {
       "inglês": "around the corner",
-      "português": "canto"
+      "português": "contornar o canto, fazer o canto"
     },
-    "as_many_times_as": {
+    "as many times as": {
       "inglês": "as many times as",
       "português": "tantas vezes quanto"
     },
-    "as_well": {
+    "as  well": {
       "inglês": "as well",
       "português": "também"
     },
-    "as_well_as": {
+    "as well as": {
       "inglês": "as well as",
       "português": "assim como"
     },
     "back": {
       "inglês": "back",
-      "português": "atrás, parte de trás"
+      "português": "atrás, parte de trás, para trás"
     },
     "BC": {
       "inglês": "back cross",
       "português": "dois pontos cruzados para a direita"
     },
-    "back_needle": {
+    "back needle": {
       "inglês": "back needle",
       "português": "agulha de trás"
     },
     "b": {
       "inglês": "back of stitch",
-      "português": "alça (fio) detrás do ponto"
+      "português": "alça (fio) de trás do ponto"
     },
     "backstitch": {
       "inglês": "backstitch",
-      "português": "pesponto"
+      "português": "ponto atrás"
     },
     "bag": {
       "inglês": "bag",
@@ -79,13 +79,17 @@
       "inglês": "before",
       "português": "antes, diante"
     },
-    "Beg_M": {
+    "beg M": {
       "inglês": "beg M",
       "português": "marcador do começo, marcador inicial"
     },
+    "BOR": {
+      "inglês": "BOR; beginning of row or round",
+      "português": "começo da carreira"
+    },
     "beg": {
       "inglês": "begin[ning]",
-      "português": "comece; começo"
+      "português": "começar; começo"
     },
     "below": {
       "inglês": "below",
@@ -93,7 +97,7 @@
     },
     "beret": {
       "inglês": "beret",
-      "português": "gorro"
+      "português": "boina"
     },
     "beside": {
       "inglês": "beside",
@@ -111,7 +115,7 @@
       "inglês": "bind off",
       "português": "arrematar o tricô, rematar"
     },
-    "bind_off_loosely": {
+    "bind off loosely": {
       "inglês": "bind off loosely",
       "português": "arrematar frouxo, arrematar sem apertar"
     },
@@ -121,9 +125,9 @@
     },
     "B": {
       "inglês": "bobble",
-      "português": "Bola, pipoca"
+      "português": "bola, pipoca"
     },
-    "bottom_up": {
+    "bottom up": {
       "inglês": "bottom up",
       "português": "de baixo para cima"
     },
@@ -147,6 +151,10 @@
       "inglês": "cast on",
       "português": "montar pontos na agulha"
     },
+    "cast off": {
+      "inglês": "cast off",
+      "português": "arrematar os pontos na agulha"
+    },
     "casting": {
       "inglês": "casting",
       "português": "montagem de pontos"
@@ -163,11 +171,11 @@
       "inglês": "chart",
       "português": "gráfico"
     },
-    "check_gauge": {
+    "check gauge": {
       "inglês": "check gauge",
-      "português": "fazer uma amostra para verificar a tensão"
+      "português": "fazer uma amostra para verificar a tensão; conferir a amostra"
     },
-    "circular_needles": {
+    "circular needles": {
       "inglês": "circular needle(s)",
       "português": "agulha(s) circular(es)"
     },
@@ -179,9 +187,13 @@
       "inglês": "cluster",
       "português": "grupo, agrupado"
     },
+    "collar": {
+      "inglês": "collar",
+      "português": "gola"
+    },
     "colourway": {
       "inglês": "colourway",
-      "português": "as cores usadas"
+      "português": "combinação de cores; as cores usadas"
     },
     "cont": {
       "inglês": "continue",
@@ -195,7 +207,7 @@
       "inglês": "cotton",
       "português": "algodão"
     },
-    "crew_neck": {
+    "crew neck": {
       "inglês": "crew neck",
       "português": "gola/decote careca"
     },
@@ -203,11 +215,11 @@
       "inglês": "crochet hook",
       "português": "agulha de crochê"
     },
-    "Cr_L": {
+    "Cr L": {
       "inglês": "cross to left",
       "português": "cruze para esquerda"
     },
-    "Cr_R": {
+    "Cr R": {
       "inglês": "cross to right",
       "português": "cruze para direita"
     },
@@ -215,7 +227,7 @@
       "inglês": "cross, to",
       "português": "cruzar"
     },
-    "crossed_stockinette_stitch": {
+    "crossed stockinette stitch": {
       "inglês": "crossed stockinette stitch",
       "português": "meia torcido"
     },
@@ -223,11 +235,11 @@
       "inglês": "cut",
       "português": "cortar"
     },
-    "darn_in_ends": {
+    "darn in ends": {
       "inglês": "darn in ends",
       "português": "esconder as pontas"
     },
-    "darning_needle": {
+    "darning needle": {
       "inglês": "darning needle",
       "português": "agulha de tapeçaria"
     },
@@ -235,31 +247,31 @@
       "inglês": "decrease",
       "português": "diminuir, diminuição"
     },
-    "decrease_1_stitch": {
+    "decrease 1 stitch": {
       "inglês": "decrease 1 stitch",
-      "português": "diminui 1 ponto"
+      "português": "diminuir 1 ponto"
     },
-    "decrease_2_stitches": {
+    "decrease 2 stitches": {
       "inglês": "decrease 2 stitches",
-      "português": "diminui 2 pontos"
+      "português": "diminuir 2 pontos"
     },
-    "decrease_round": {
+    "decrease round": {
       "inglês": "decrease round",
-      "português": "volta de diminuição"
+      "português": "carreira circular com diminuições"
     },
-    "decrease_row": {
+    "decrease row": {
       "inglês": "decrease row",
-      "português": "carreira de diminuição"
+      "português": "carreira aberta com diminuições"
     },
     "diag": {
       "inglês": "diagonal",
       "português": "diagonal"
     },
-    "divide_for_armhole": {
+    "divide for armhole": {
       "inglês": "divide for armhole",
       "português": "dividir para formar a cava"
     },
-    "divide_stitches": {
+    "divide stitches": {
       "inglês": "divide stitches on four [or three] needles",
       "português": "dividir os pontos por quatro [ou três] agulhas"
     },
@@ -273,17 +285,17 @@
     },
     "dc": {
       "inglês": "double crochet",
-      "português": "ponto alto (crochet)"
+      "português": "ponto alto (crochê) em receitas americanas; ponto baixo (crochê) em receitas inglesas"
     },
-    "dbl_dec": {
+    "dbl dec": {
       "inglês": "double decrease",
-      "português": "mate duplo"
+      "português": "diminuição dupla"
     },
     "dpn": {
       "inglês": "double point needles",
       "português": "agulhas de duas pontas"
     },
-    "double_yarn_over": {
+    "DYO": {
       "inglês": "double yarn over",
       "português": "laçada dupla"
     },
@@ -293,7 +305,7 @@
     },
     "draw": {
       "inglês": "draw",
-      "português": "puxar"
+      "português": "puxar, traçar"
     },
     "dress": {
       "inglês": "dress",
@@ -303,27 +315,27 @@
       "inglês": "drop",
       "português": "deixar cair"
     },
-    "dr_1": {
+    "dr 1": {
       "inglês": "drop 1 stitch",
-      "português": "tirar 1 ponto sem fazer"
+      "português": "deixar cair 1 ponto"
     },
-    "dropped_stitch": {
+    "dropped stitch": {
       "inglês": "dropped stitch",
       "português": "ponto que caiu"
     },
     "dup": {
       "inglês": "duplicate stitch",
-      "português": "bordado em ponto de malha"
+      "português": "bordado em ponto malha"
     },
-    "each_other_row": {
+    "each other row": {
       "inglês": "each other row",
       "português": "carreira sim, carreira não"
     },
     "edge": {
       "inglês": "edge",
-      "português": "margem"
+      "português": "margem, borda"
     },
-    "edge_stitch": {
+    "edge stitch": {
       "inglês": "edge stitch",
       "português": "ponto de borda"
     },
@@ -335,37 +347,45 @@
       "inglês": "end",
       "português": "ponta; fim, final"
     },
-    "end_on_RS": {
+    "end on RS": {
       "inglês": "end on RS",
       "português": "terminar pelo lado direito"
     },
-    "end_on_WS": {
+    "end on WS": {
       "inglês": "end on WS",
-      "português": "terminar pelo lado avesso"
+      "português": "terminar pelo lado do avesso"
     },
-    "end_stitch": {
+    "end stitch": {
       "inglês": "end stitch",
       "português": "último ponto"
+    },
+    "EOR": {
+      "inglês": "end of row/round",
+      "português": "fim da carreira"
     },
     "establish": {
       "inglês": "establish",
       "português": "estabelecer, determinar"
     },
-    "even_numbered_rounds": {
+    "even number": {
+      "inglês": "even number",
+      "português": "número par"
+    },
+    "even-numbered rounds": {
       "inglês": "even numbered rounds",
       "português": "carreiras pares"
     },
-    "even_row": {
+    "even row": {
       "inglês": "even row",
       "português": "carreira par"
     },
-    "E": {
+    "Ea": {
       "inglês": "every; each",
       "português": "em todas as carreiras"
     },
     "FO": {
       "inglês": "fasten off",
-      "português": "fechar"
+      "português": "fechar o último ponto (passar a ponta cortada do fio por dentro dele e puxar"
     },
     "feet": {
       "inglês": "feet",
@@ -397,7 +417,7 @@
     },
     "fold": {
       "inglês": "fold",
-      "português": "dobrar"
+      "português": "dobra, dobrar"
     },
     "follow": {
       "inglês": "follow",
@@ -415,17 +435,21 @@
       "inglês": "fringe",
       "português": "franja"
     },
-    "from_bottom": {
+    "frog": {
+      "inglês": "frog",
+      "português": "desmanchar o trabalho"
+    },
+    "from bottom": {
       "inglês": "from (the) bottom",
       "português": "a partir de baixo"
     },
-    "from_the_start": {
+    "from the start": {
       "inglês": "from the start",
-      "português": "[a partir] do começo"
+      "português": "a partir do começo, desde o começo"
     },
-    "from_top": {
+    "from top": {
       "inglês": "from top",
-      "português": "a partir de cima"
+      "português": "a partir de cima, desde cima"
     },
     "front": {
       "inglês": "front",
@@ -435,21 +459,21 @@
       "inglês": "front cross",
       "português": "2 pontos cruzados para a esquerda"
     },
-    "front_needle": {
+    "front needle": {
       "inglês": "front needle",
       "português": "agulha da frente"
     },
     "fr": {
       "inglês": "front side",
-      "português": "lado direito"
+      "português": "frente do trabalho, direito do trabalho"
     },
-    "g-st": {
+    "g st": {
       "inglês": "garter stitch",
-      "português": "cordões de tricô, ponto mousse"
+      "português": "cordões de tricô (BR), ponto mousse (PT)"
     },
     "gauge": {
       "inglês": "gauge",
-      "português": "largura, medida da amostra; tensão"
+      "português": "medida da amostra; tensão"
     },
     "gloves": {
       "inglês": "gloves",
@@ -461,25 +485,37 @@
     },
     "graft": {
       "inglês": "graft, grafting",
-      "português": "costura invisível"
+      "português": "costura invisível em ponto malha"
     },
     "grams": {
       "inglês": "grams",
       "português": "gramas"
     },
-    "hdc": {
-      "inglês": "half double crochet",
-      "português": "meio ponto alto (crochet)"
+    "hat": {
+      "inglês": "hat",
+      "português": "chapéu, gorro, touca"
+    },
+    "half": {
+      "inglês": "half",
+      "português": "meio, metade"
     },
     "hand(s)": {
       "inglês": "hand(s)",
       "português": "mão(s)"
     },
+    "hdc": {
+      "inglês": "half double crochet",
+      "português": "meio ponto alto (receitas americanas)"
+    },
     "head": {
       "inglês": "head",
       "português": "cabeça"
     },
-    "higher_number": {
+    "heel": {
+      "inglês": "heel",
+      "português": "calcanhar"
+    },
+    "higher number": {
       "inglês": "higher number",
       "português": "número maior"
     },
@@ -487,9 +523,9 @@
       "inglês": "hold",
       "português": "segurar, manter"
     },
-    "holding_needle": {
+    "holding needle": {
       "inglês": "holding needle",
-      "português": "agulha auxiliar"
+      "português": "agulha em que ficam os pontos a serem trabalhados, agulha esquerda (para quem é destro)"
     },
     "hole": {
       "inglês": "hole",
@@ -497,55 +533,55 @@
     },
     "i-cord": {
       "inglês": "i-cord",
-      "português": "rabo-de-gato"
+      "português": "cordão, rabo de gato"
     },
     "ignore": {
       "inglês": "ignore",
-      "português": "não leve em conta"
+      "português": "ignore, não leve em conta"
     },
     "inch(es)": {
       "inglês": "inch(es)",
-      "português": "polegada(s) (2,54 cm)"
+      "português": "polegada(s) [2,54 cm]"
     },
     "include": {
       "inglês": "include",
       "português": "incluir"
     },
-    "increase_stitches_evenly": {
+    "increase stitches evenly": {
       "inglês": "increase [number of] stitches evenly",
-      "português": "aumentar [número de] pontos de maneira igual"
+      "português": "aumentar [número de] pontos regularmente"
     },
-    "Inc_1_s": {
+    "inc 1 st": {
       "inglês": "increase 1 stitch, make 1 stitch",
-      "português": "levantar 1 ponto"
+      "português": "aumentar 1 ponto, levantar 1 ponto"
     },
     "inc": {
-      "inglês": "increase, to (verb)",
-      "português": "aumente"
+      "inglês": "increase",
+      "português": "aumento, aumentar"
     },
     "insert": {
       "inglês": "insert",
       "português": "inserir"
     },
-    "insert_marker": {
+    "insert marker": {
       "inglês": "insert marker",
       "português": "colocar marcador"
     },
     "inst": {
       "inglês": "instructions",
-      "português": "Instruções, realização, como fazer"
+      "português": "instruções, como fazer"
     },
     "jn": {
       "inglês": "join (into a ring)",
-      "português": "unir (em tricô circular); juntar fio, fechar em círculo"
+      "português": "fechar a carreira (em tricô circular); unir"
     },
     "k1 p1 rib": {
       "inglês": "k1 p1 rib; k2 p2 rib",
-      "português": "barra 1×1; barra 2×2"
+      "português": "barra, sanfona ou gaita 1×1; barra, sanfona ou gaita 2×2"
     },
     "kitchener stitch": {
       "inglês": "kitchener stitch",
-      "português": "costura invisível"
+      "português": "costura invisível em ponto malha"
     },
     "knee": {
       "inglês": "knee",
@@ -553,11 +589,11 @@
     },
     "kb": {
       "inglês": "Knit through the back loop to twist the stitch",
-      "português": "Meia invertido, meia torcido"
+      "português": "trabalhe pelo fio de trás para torcer o ponto; meia torcido"
     },
     "knit x stitches": {
       "inglês": "knit [number of] stitches",
-      "português": "tecer [número de] pontos e meia"
+      "português": "tecer [número de] pontos em meia"
     },
     "k2tog": {
       "inglês": "knit 2 together",
@@ -567,17 +603,17 @@
       "inglês": "knit in front and back of stitch",
       "português": "trabalhar em meia pela frente e por trás do mesmo ponto"
     },
-    "kniting the round": {
-      "inglês": "...",
-      "português": "tecer em agulha circular"
+    "knit in the round": {
+      "inglês": "knit in the round",
+      "português": "tecer em carreiras circulares"
     },
-    "K up to the end of the row": {
-      "inglês": "...",
+    "K up to EOR": {
+      "inglês": "knit up to the end of the row",
       "português": "tricote em meia até o fim da carreira"
     },
     "k2fb": {
       "inglês": "Knit into the front and back of the next two stitches to increase to four stitches",
-      "português": "tricote os dois pontos seguintes pela frente e por trás para aumentar para quatro pontos."
+      "português": "tricote pela frente e por trás os dois pontos seguintes para aumentar para quatro pontos."
     },
     "k1 inc1": {
       "inglês": "Knit one increase one",
@@ -587,43 +623,43 @@
       "inglês": "knit one through back of loop",
       "português": "1 meia torcido"
     },
-    "knit_plain": {
+    "knit plain": {
       "inglês": "knit plain",
-      "português": "tricô liso"
+      "português": "tricô liso, ponto meia, ponto jérsei (direito em meia, avesso em tricô)"
     },
     "kssb": {
       "inglês": "knit slip stitch through the back",
-      "português": "tricote torcido o ponto tirado sem fazer"
+      "português": "tricote torcido (pelo fio de trás) o ponto tirado sem fazer"
     },
     "k tbl": {
       "inglês": "knit trough back of loop",
-      "português": "faça o meia pela alça de trás"
+      "português": "meia torcido (pelo fio de trás do ponto)"
     },
     "K2togB": {
-      "inglês": "Knit two together through the back loop",
-      "português": "2 pontos meia torcidos juntos"
+      "inglês": "knit two together through the back loop",
+      "português": "2 pontos meia juntos torcidos (pelo fio de trás do ponto)"
     },
     "k1": {
-      "inglês": "Knit, knit stitch",
-      "português": "ponto meia"
+      "inglês": "knit, knit stitch",
+      "português": "1 ponto meia"
     },
-    "knitting_needles": {
+    "knitting needles": {
       "inglês": "knitting needles",
       "português": "agulhas de tricô"
     },
     "kwise": {
       "inglês": "Knitwise (as if to knit)",
-      "português": "na direção do ponto de meia"
+      "português": "como se fosse fazer um ponto meia"
     },
     "lace": {
       "inglês": "lace",
       "português": "renda; ponto rendado"
     },
-    "large_needle": {
+    "large needle": {
       "inglês": "large needle",
       "português": "agulha maior"
     },
-    "large_size": {
+    "large size": {
       "inglês": "large size",
       "português": "tamanho grande"
     },
@@ -631,13 +667,13 @@
       "inglês": "large-sized",
       "português": "de tamanho grande"
     },
-    "lay_flat_to_dry": {
+    "lay flat to dry": {
       "inglês": "lay flat to dry",
-      "português": "estenda esticado para secar"
+      "português": "deixe secar na horizontal"
     },
-    "leave_stitches_on_holding_needle": {
+    "leave stitches on holding needle": {
       "inglês": "leave stitches on holding needle",
-      "português": "deixe os pontos em uma agulha auxiliar"
+      "português": "deixe os pontos na agulha esquerda (para quem é destro); deixe os pontos na agulha que segura os pontos ainda a tricotar"
     },
     "L": {
       "inglês": "left",
@@ -645,35 +681,31 @@
     },
     "lc": {
       "inglês": "left cross",
-      "português": "passe 2 pontos sem fazer para ag aux"
+      "português": "2 pontos cruzados para a esquerda"
     },
-    "left_hand": {
+    "LH": {
       "inglês": "left hand",
-      "português": "mão esquerda"
+      "português": "mão esquerda, lado esquerdo"
     },
-    "left_hand_needle": {
-      "inglês": "left hand needle",
-      "português": "agulha da mão esquerda"
+    "LH needle": {
+      "inglês": "left-hand needle",
+      "português": "agulha esquerda"
     },
     "lhn": {
       "inglês": "left needle",
       "português": "agulha esquerda"
     },
-    "LH": {
-      "inglês": "left side of work",
-      "português": "lado esquerdo do trabalho"
-    },
-    "left_slanting": {
+    "left slanting": {
       "inglês": "left slanting",
-      "português": "inclinação à esquerda"
+      "português": "inclinação à esquerda, inclinado à esquerda"
     },
     "LT": {
       "inglês": "left twist",
-      "português": "torça a esquerda"
+      "português": "dois pontos cruzados para a esquerda"
     },
-    "left_zigzag_cable": {
+    "left zigzag cable": {
       "inglês": "left zigzag cable",
-      "português": "trança esquerda em zigzag"
+      "português": "trança em zigue-zague para a esquerda ou da esquerda"
     },
     "leftovers": {
       "inglês": "leftovers",
@@ -683,9 +715,9 @@
       "inglês": "leg",
       "português": "perna"
     },
-    "leg_warmer": {
+    "leg warmer": {
       "inglês": "leg warmer",
-      "português": "aquecedor de pernas"
+      "português": "polaina"
     },
     "length": {
       "inglês": "length",
@@ -695,7 +727,7 @@
       "inglês": "lift",
       "português": "erguer, levantar"
     },
-    "lifted_stitch": {
+    "lifted stitch": {
       "inglês": "lifted stitch",
       "português": "ponto levantado"
     },
@@ -703,53 +735,57 @@
       "inglês": "light (in color)",
       "português": "clara (cor)"
     },
-    "live_stitches": {
+    "live stitches": {
       "inglês": "live stitches",
-      "português": "pontos vivos"
+      "português": "pontos vivos, pontos não arrematados"
     },
     "LYS": {
       "inglês": "Local Yarn Shop",
-      "português": "armarinhos (de corte e costura)"
+      "português": "armarinho, loja especializada em fios"
     },
-    "long-tail_cast_on": {
+    "long-tail cast on": {
       "inglês": "long-tail cast on",
-      "português": "montagem com fio longo"
+      "português": "montagem com ponta longa ou com dois fios"
     },
     "lp": {
       "inglês": "loop",
-      "português": "laçada, a volta da laçada"
+      "português": "alça, fio que forma o ponto, laçada"
     },
-    "Loop_from_the_cast-on_row": {
+    "Loop from the cast-on row": {
       "inglês": "Loop from the cast-on row",
-      "português": "laçadas da carreira de montagem"
+      "português": "fio dos pontos da carreira de montagem"
     },
     "MC": {
       "inglês": "main color",
       "português": "cor principal"
     },
-    "M1_p-st": {
+    "M1P": {
       "inglês": "make 1 purl stitch",
-      "português": "aumente 1 ponto em t"
+      "português": "aumente 1 ponto em tricô"
+    },
+    "M1 p-st": {
+      "inglês": "make 1 purl stitch",
+      "português": "aumente 1 ponto em tricô"
     },
     "mp": {
       "inglês": "make a picot",
-      "português": "fazer um picô"
+      "português": "faça um picô"
     },
     "MB": {
       "inglês": "make bobble",
-      "português": "faça 1 bola"
+      "português": "faça 1 pipoca"
     },
     "m1l": {
       "inglês": "make one left",
-      "português": "Aumento à esquerda"
+      "português": "aumento inclinado para a esquerda"
     },
     "m1r": {
       "inglês": "make one right",
-      "português": "Aumento à direita"
+      "português": "aumento inclinado para a direita"
     },
     "m1": {
       "inglês": "make one; make one stitch",
-      "português": "fazer um aumento intercalado simples"
+      "português": "fazer um aumento entre os pontos (faça uma laçada torcida ou levante o fio entre os pontos com a agulha e trabalhe-o torcido)"
     },
     "manoeuvre": {
       "inglês": "manoeuvre",
@@ -759,11 +795,15 @@
       "inglês": "marker",
       "português": "marcador"
     },
-    "match_up": {
+    "match up": {
       "inglês": "match up",
-      "português": "combinar"
+      "português": "combinar, igualar"
     },
-    "medium_size": {
+    "mattress stitch": {
+      "inglês": "mattress stitch",
+      "português": "ponto de colchão, ponto invisível de costura lateral"
+    },
+    "medium size": {
       "inglês": "medium size",
       "português": "tamanho médio"
     },
@@ -775,13 +815,13 @@
       "inglês": "meter(s)",
       "português": "metro(s)"
     },
-    "mild_soap": {
+    "mild soap": {
       "inglês": "mild soap",
       "português": "sabão neutro"
     },
-    "m-st": {
+    "moss stitch": {
       "inglês": "moss stitch",
-      "português": "pto arroz duplo, ponto de trigo"
+      "português": "ponto arroz duplo; ponto trigo"
     },
     "mult": {
       "inglês": "multiple",
@@ -789,25 +829,29 @@
     },
     "narrow": {
       "inglês": "narrow",
-      "português": "diminuir"
+      "português": "diminuir; estreitar"
+    },
+    "nd": {
+      "inglês": "needle(s)",
+      "português": "agulha(s)"
     },
     "neck": {
       "inglês": "neck",
-      "português": "pescoço (decote)"
+      "português": "pescoço; decote"
     },
-    "neck_edge_bind_off": {
+    "neck edge bind off": {
       "inglês": "neck edge bind off [number of stitches] 1x, 2x, 3x",
       "português": "arrematar [número de pontos] para formar o decote 1x, 2x, 3x"
     },
     "neckline": {
       "inglês": "neckline",
-      "português": "linha ou limite do decote"
+      "português": "contorno do decote"
     },
     "needle": {
       "inglês": "needle",
       "português": "agulha"
     },
-    "needle_size": {
+    "needle size": {
       "inglês": "needle size",
       "português": "tamanho ou espessura da agulha"
     },
@@ -815,13 +859,17 @@
       "inglês": "next",
       "português": "seguinte(s)"
     },
-    "no_stitch": {
+    "no stitch": {
       "inglês": "no stitch",
       "português": "não há pontos"
     },
-    "odd_number_of_stitches": {
-      "inglês": "odd number of stitches; odd-numbered rounds",
-      "português": "carreiras ímpares"
+    "odd number": {
+      "inglês": "odd number",
+      "português": "número ímpar"
+    },
+    "odd-numbered round/row": {
+      "inglês": "odd-numbered round/row",
+      "português": "carreira ímpar"
     },
     "once": {
       "inglês": "once",
@@ -837,7 +885,7 @@
     },
     "oz": {
       "inglês": "ounces",
-      "português": "1 onça = 28 gr"
+      "português": "1 onça = 28 g"
     },
     "over": {
       "inglês": "over",
@@ -849,33 +897,33 @@
     },
     "pnso": {
       "inglês": "pass next stitch over",
-      "português": "deslize o pt seguinte sobre"
-    },
-    "pass_over_slipped_stitch": {
-      "inglês": "pass over slipped stitch",
-      "português": "derrubar o ponto sem fazer"
+      "português": "derrube o ponto seguinte sobre o outro"
     },
     "psso": {
       "inglês": "pass slipped stitch over",
-      "português": "mate simples"
+      "português": "derrubar o ponto sem fazer por cima do outro; terminar o mate simples"
     },
     "p2sso": {
       "inglês": "pass two slipped stitches over",
-      "português": "mate duplo"
+      "português": "derrubar os dois pontos sem fazer por cima do outro; terminar o mate duplo"
     },
     "patt": {
       "inglês": "pattern",
       "português": "receita, modelo; padrão; motivo"
     },
-    "PU_(x)": {
+    "PU (x)": {
       "inglês": "pick up stitches",
-      "português": "levantar x pontos"
+      "português": "levantar pontos"
     },
-    "pick_up_stitches_around_armhole": {
+    "Pick up and knit": {
+      "inglês": "pick up and knit X stitches",
+      "português": "levantar X pontos em meia"
+    },
+    "pick up stitches around armhole": {
       "inglês": "pick up stitches around armhole",
       "português": "levantar pontos em torno da cava"
     },
-    "pick_up_stitches_around_neck_opening": {
+    "pick up stitches around neck opening": {
       "inglês": "pick up stitches around neck opening",
       "português": "levantar pontos em torno do decote"
     },
@@ -887,17 +935,17 @@
       "inglês": "place marker",
       "português": "colocar marcador"
     },
-    "plain_knitting": {
+    "plain knitting": {
       "inglês": "plain knitting",
-      "português": "ponto meia, liso"
+      "português": "ponto liso, ponto meia, ponto jérsei (direito em meia, avesso em tricô)"
     },
     "ply": {
       "inglês": "ply",
-      "português": "cada um dos fios menores enrolados que formam um fio"
+      "português": "cada um dos cabos que, torcidos juntos, formam o fio"
     },
     "prec": {
       "inglês": "preceding",
-      "português": "precedendo, antes de"
+      "português": "anterior, precedente"
     },
     "prev": {
       "inglês": "previous",
@@ -907,9 +955,9 @@
       "inglês": "project",
       "português": "trabalho (a fazer, que está sendo feito)"
     },
-    "pull_yarn_through_remaining_stitches": {
+    "pull yarn through remaining stitches": {
       "inglês": "pull yarn through remaining stitches",
-      "português": "puxar o fio por dentro dos pontos que sobraram"
+      "português": "passar o fio por dentro dos pontos que sobraram"
     },
     "p": {
       "inglês": "purl",
@@ -917,27 +965,27 @@
     },
     "p1": {
       "inglês": "purl1, purl2, purl 3…",
-      "português": "1 pto tricô, 2 pto tricô, 3 pto tricô,"
+      "português": "1 ponto tricô, 2 pontos tricô, 3 pontos tricô"
     },
     "p1-b": {
       "inglês": "purl 1 in row below",
-      "português": "1 tricô na carreira de baixo"
+      "português": "faça 1 tricô pegando na carreira de baixo"
     },
     "p2tog": {
       "inglês": "purl 2 together",
-      "português": "2 juntos em tricô"
+      "português": "dois pontos juntos em tricô"
     },
-    "p2_tog-b": {
+    "p2tog-b": {
       "inglês": "purl two together through back of loop",
-      "português": "dois pontos juntos em tricô (torcidos)"
+      "português": "dois pontos juntos em tricô torcidos (pelo fio de trás)"
     },
-    "2tbl": {
+    "p2tbl": {
       "inglês": "purl 2 together through back loop",
-      "português": "2 pontos tricô torcidos juntos"
+      "português": "2 pontos juntos em tricô torcidos (pelo fio de trás)"
     },
     "pfb": {
       "inglês": "purl into front and back of stitch",
-      "português": "teça em tricô na frente e atrás do ponto"
+      "português": "tecer em tricô pela frente e por trás do ponto"
     },
     "p1b": {
       "inglês": "purl one through back loop",
@@ -945,11 +993,15 @@
     },
     "psp": {
       "inglês": "purl slip stitch over",
-      "português": "1 ponto em tricô"
+      "português": "1 ponto em tricô, 1 ponto sem fazer; enfie a agulha por dentro do ponto sem fazer e puxe o ponto tricotado, derrubando assim o ponto sem fazer por cima dele (avesso do mate simples)"
+    },
+    "ptbl": {
+      "inglês": "purl through back loop",
+      "português": "tricô torcido (feito pelo fio de trás)"
     },
     "pwise": {
       "inglês": "purlwise (as if to purl)",
-      "português": "na direção do ponto de tricô"
+      "português": "como se fosse fazer um ponto tricô"
     },
     "ravel": {
       "inglês": "ravel, ravel out",
@@ -957,9 +1009,9 @@
     },
     "rearrange": {
       "inglês": "rearrange",
-      "português": "distribuição dos pontos em agulhas de duas pontas"
+      "português": "redistribuir os pontos nas agulhas"
     },
-    "regardless_of": {
+    "regardless of": {
       "inglês": "regardless of",
       "português": "não importa se"
     },
@@ -967,7 +1019,7 @@
       "inglês": "remaining",
       "português": "restante(s)"
     },
-    "remove_marker": {
+    "remove marker": {
       "inglês": "remove marker",
       "português": "retirar marcador"
     },
@@ -975,87 +1027,91 @@
       "inglês": "repetition",
       "português": "repetição"
     },
-    "rev_St_st": {
+    "rev St st": {
       "inglês": "reverse stockinette stitch",
-      "português": "use o avesso da malha como direito"
+      "português": "ponto tricô; ponto avesso; avesso do ponto jérsei (direito em tricô, avesso em meia)"
     },
-    "reversed_stitch": {
+    "reversed stitch": {
       "inglês": "reversed stitch",
-      "português": "ponto invertido"
+      "português": "ponto tricô; ponto avesso; avesso de ponto jérsei (direito em tricô, avesso em meia)"
     },
     "ridge": {
       "inglês": "ridge",
-      "português": "2 carreiras de trício pelo direito; gominho"
+      "português": "carreira em tricô sobre fundo em meia; cordão de tricô"
+    },
+    "R": {
+      "inglês": "right",
+      "português": "direita, à direita, lado direito"
     },
     "RC": {
       "inglês": "right cross",
-      "português": "Cruze à direita ou passe 1 pto"
+      "português": "2 pt cruzados à direita"
     },
     "RH": {
       "inglês": "right hand",
-      "português": "mão direita"
+      "português": "mão direita, lado direito (em oposição ao esquerdo)"
     },
-    "right_hand_needle": {
-      "inglês": "right hand needle",
-      "português": "agulha da mão direita"
+    "right-hand needle": {
+      "inglês": "right-hand needle",
+      "português": "agulha da mão direita, agulha usada para tricotar os pontos"
     },
-    "Rs": {
+    "RS": {
       "inglês": "right side",
-      "português": "lado direito"
+      "português": "direito do trabalho (em oposição ao avesso)"
     },
-    "right_slanting": {
+    "right slanting": {
       "inglês": "right slanting",
-      "português": "inclinação à direita"
+      "português": "inclinado para a direita"
     },
-    "right_zigzag_cable": {
+    "right zigzag cable": {
       "inglês": "right zigzag cable",
-      "português": "trança direita em zigzag"
+      "português": "trança em zigue-zague para a direita"
     },
-    "rip_all_out": {
+    "rip all out": {
       "inglês": "rip all out",
-      "português": "desmanchar o trabalho todo"
+      "português": "desmanchar tudo"
     },
-    "rip_out": {
+    "rip out": {
       "inglês": "rip out, rip back",
-      "português": "desmanchar o trabalho até o ponto em que houve erro"
+      "português": "desmanchar o trabalho até o ponto onde houve o erro"
     },
     "rnd": {
       "inglês": "round(s)",
-      "português": "voltas (tricô circular)"
+      "português": "carreiras ou voltas (tricô circular)"
     },
-    "rounded_edge": {
+    "rounded edge": {
       "inglês": "rounded edge",
-      "português": "margem redonda"
+      "português": "borda arredondada"
     },
     "r": {
       "inglês": "row",
-      "português": "carreira"
+      "português": "carreira (tricô aberto)"
     },
-    "row_maker": {
+    "row maker": {
       "inglês": "row maker",
       "português": "marcador de carreiras"
     },
-    "s1_2tog_psso": {
-      "inglês": "s1 (ou: slip 1), 2tog, psso",
-      "português": "1 sem fazer, 2j em meia, derrube o ponto sem fazer"
+    "s1 k2tog psso": {
+      "inglês": "slip 1, knit 2 stitches together, pass slipped stitch over",
+      "português": "mate duplo; passe 1 ponto sem fazer em meia, faça 2 pontos juntos em meia, derrube o ponto sem fazer por cima do ponto trabalhado"
     },
-    "s1_k1_psso": {
-      "inglês": "s1 (ou: slip 1), k1, psso",
-      "português": "1 sem fazer, 1m, derrube o ponto sem fazer"
+    "s1 k1 psso": {
+      "inglês": "slip 1, knit 1 stitch, pass slipped stitch over",
+      "português": "passe 1 ponto sem fazer, faça 1 ponto meia, derrube o ponto sem fazer por cima do ponto trabalhado"
     },
-    "s1_p1_psso": {
-      "inglês": "s1 (ou: slip 1), p1, psso",
-      "português": "1 sem fazer, 1t, derrube o ponto sem fazer"
+    "s1 p1 psso": {
+      "inglês": "slip 1, purl 1 stitch, pass slipped stitch over",
+      "português": "passe 1 ponto sem fazer, faça 1 ponto tricô, derrube o ponto sem fazer por cima do ponto trabalhado"
     },
-    "s1_p2tog_psso": {
-      "inglês": "s1 (ou: slip 1), p2tog, psso",
-      "português": "1 sem fazer, 2j em t"
+    "s1 p2tog psso": {
+      "inglês": "slip 1, purl 2 stitches together, pass slipped stitch over",
+      "português": "passe 1 ponto sem fazer, faça 2 pontos juntos em tricô, derrube o ponto sem fazer por cima do ponto trabalhado"
     },
-    "saddle_shoulder": {
+    "saddle shoulder": {
       "inglês": "saddle shoulder",
-      "português": "tipo de raglan"
+      "português": "ombro americano; tipo de raglã alongado"
     },
-    "safety_pin": {
+    "safety pin": {
       "inglês": "safety pin",
       "português": "alfinete de segurança"
     },
@@ -1063,21 +1119,29 @@
       "inglês": "sample",
       "português": "amostra"
     },
+    "sc": {
+      "inglês": "single crochet",
+      "português": "ponto baixo (se a receita for americana), ponto baixíssimo (se a receita for inglesa)"
+    },
     "scarf": {
       "inglês": "scarf, plural: scarves",
-      "português": "Lenço; cachecol"
+      "português": "cachecol; echarpe"
     },
-    "scoop_neck": {
+    "scoop neck": {
       "inglês": "scoop neck",
       "português": "gola/decote redondo"
     },
     "seam": {
       "inglês": "seam",
-      "português": "costura/costurar"
+      "português": "costura; costurar"
+    },
+    "sd st": {
+      "inglês": "seed stitch",
+      "português": "ponto arroz"
     },
     "set": {
       "inglês": "set",
-      "português": "conjunto"
+      "português": "conjunto; estabelecer, estabelecido"
     },
     "shawl": {
       "inglês": "shawl",
@@ -1087,9 +1151,13 @@
       "inglês": "shoulder",
       "português": "ombro"
     },
-    "single_points": {
-      "inglês": "single points, single pointed needles",
-      "português": "agulhas de uma ponta"
+    "silk": {
+      "inglês": "silk",
+      "português": "seda"
+    },
+    "single points": {
+      "inglês": "single points, single-pointed needles",
+      "português": "agulhas retas (de uma só ponta)"
     },
     "skein": {
       "inglês": "skein",
@@ -1103,17 +1171,17 @@
       "inglês": "skirt",
       "português": "saia"
     },
-    "sl_as_if_to_knit": {
-      "inglês": "sl as if to knit, slip as if to knit",
-      "português": "passar o ponto sem fazer"
+    "sl as if to knit": {
+      "inglês": "slip as if to knit",
+      "português": "passar o ponto sem fazer em meia, como se fosse fazer um ponto meia"
     },
-    "sl_as_if_to_purl": {
-      "inglês": "sl as if to purl, slip as if to purl",
-      "português": "passar o ponto sem fazer"
+    "sl as if to purl": {
+      "inglês": "slip as if to purl",
+      "português": "passar o ponto sem fazer em tricô, como se fosse fazer um ponto tricô"
     },
     "sleeveless": {
       "inglês": "sleeveless",
-      "português": "sem manga"
+      "português": "sem mangas"
     },
     "slightly": {
       "inglês": "slightly",
@@ -1121,19 +1189,15 @@
     },
     "sl": {
       "inglês": "slip",
-      "português": "deslizar, passar o ponto sem fazer"
-    },
-    "sl1": {
-      "inglês": "slip 1 (stitch)",
-      "português": "deslizar, passar 1 ponto sem fazer de uma agulha para outra"
+      "português": "passar o ponto sem fazer de uma agulha a outra"
     },
     "ssp": {
-      "inglês": "slip 2 stitches as if to purl, purl together",
-      "português": "Mate simples em tricô"
+      "inglês": "slip 2 stitches as if to purl, purl them together through the back loop",
+      "português": "passe 2 pontos sem fazer em meia, tricote esses 2 pontos juntos em tricô pelo fio de trás (avesso do mate simples)"
     },
     "sskp": {
       "inglês": "slip 2 stitches together as if to knit, knit next stitch, pass slipped stitches over",
-      "português": "mate duplo em meia: passar dois pontos juntos em meia para a outra agulha, tricotar o ponto seguinte e passar os pontos sem fazer sobre o ponto tricotado"
+      "português": "mate duplo central; passar sem fazer dois pontos juntos em meia, tricotar o ponto seguinte e derrubar os pontos sem fazer sobre o ponto tricotado"
     },
     "slip marker": {
       "inglês": "slip marker",
@@ -1141,50 +1205,50 @@
     },
     "slp": {
       "inglês": "slip one as if to purl",
-      "português": "passe o ponto com a linha pela frente"
+      "português": "passe um ponto sem fazer como se fosse fazer um ponto tricô"
     },
     "skp": {
       "inglês": "slip one knitwise, knit one, pass slipped stitch over",
-      "português": "Mate simples"
+      "português": "Mate simples: passe um ponto sem fazer em meia, faça um ponto meia, derrube o ponto sem fazer por cima do ponto tricotado"
     },
-    "SK2P": {
-      "inglês": "slip one, knit two together, passa slip stitch over the knit 2 together",
-      "português": "Mate duplo"
+    "sk2p": {
+      "inglês": "slip one, knit two together, pass slipped stitch over the knit 2 together",
+      "português": "Mate duplo: passe um ponto sem fazer em meia, faça dois pontos juntos em meia, derrube o ponto sem fazer por cima do ponto tricotado"
     },
     "s1 wyif": {
       "inglês": "Slip one stitch purlwise with yarn in front",
-      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio na frente"
+      "português": "Passe um ponto sem fazer em tricô com o fio na frente"
     },
     "sl1 wyif": {
       "inglês": "Slip one stitch purlwise with yarn in front",
-      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio na frente"
+      "português": "Passe um ponto sem fazer em tricô com o fio na frente"
     },
     "s1 wyib": {
-      "inglês": "Slip one stitch purlwise with yarn in front",
-      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio atrás do trabalho"
+      "inglês": "Slip one stitch purlwise with yarn in back",
+      "português": "Passe um ponto sem fazer em tricô com o fio atrás"
     },
     "sl1 wyib": {
-      "inglês": "Slip one stitch purlwise with yarn in front",
-      "português": "Deslize um ponto como se fosse tecer em tricô, com o fio atrás do trabalho"
+      "inglês": "Slip one stitch purlwise with yarn in back",
+      "português": "Passe um ponto sem fazer em tricô com o fio atrás"
     },
     "sl st": {
       "inglês": "slip stitch",
-      "português": "passe o ponto"
+      "português": "passe um ponto sem fazer (tricô); ponto baixíssimo (crochê, receita americana)"
     },
     "sl1 st": {
       "inglês": "slip 1 stitch",
-      "português": "passe 1 ponto"
+      "português": "passe 1 ponto sem fazer"
     },
     "ssk": {
-      "inglês": "slip slip knit",
-      "português": "mate simples; diminuição à esquerda"
+      "inglês": "slip slip, knit",
+      "português": "mate simples; diminuição à esquerda; passe um  ponto sem fazer em meia, passe outro ponto sem fazer em meia, tricote os dois pontos juntos em meia pelo fio de trás"
     },
     
     "small": {
       "inglês": "small",
       "português": "pequeno(s)"
     },
-    "small_size": {
+    "small size": {
       "inglês": "small size",
       "português": "tamanho pequeno"
     },
@@ -1192,7 +1256,7 @@
       "inglês": "smaller",
       "português": "menor(es)"
     },
-    "smaller_number": {
+    "smaller number": {
       "inglês": "smaller number",
       "português": "número menor"
     },
@@ -1224,7 +1288,7 @@
       "inglês": "start",
       "português": "começar/começo"
     },
-    "start_new_skein_of_yarn": {
+    "start new skein of yarn": {
       "inglês": "start new skein of yarn",
       "português": "começar novo novelo"
     },
@@ -1240,29 +1304,29 @@
       "inglês": "stiff",
       "português": "rígido"
     },
-    "st(s)": {
+    "st": {
       "inglês": "stitch",
       "português": "ponto"
     },
-    "stitch_holder": {
+    "stitch holder": {
       "inglês": "stitch holder",
-      "português": "prendedor de ponto"
+      "português": "alfinete prendedor de ponto"
     },
-    "stitch_marker": {
+    "stitch marker": {
       "inglês": "stitch marker",
       "português": "marcador de ponto"
     },
-    "stockinette_knickers": {
+    "stockinette knickers": {
       "inglês": "stockinette knickers",
       "português": "calcinha de malha"
     },
     "St st": {
       "inglês": "stockinette stitch",
-      "português": "tricô de um lado e meia do outro"
+      "português": "ponto jérsei, ponto meia, ponto malha: meia no direito, tricô no avesso"
     },
-    "stockinette stitch": {
-      "inglês": "same as jersey stitch",
-      "português": "ponto jersey; tricô de um lado e meia do outro"
+    "Jersey stitch": {
+      "inglês": "jersey stitch",
+      "português": "ponto jérsei, ponto meia, ponto malha: meia no direito, tricô no avesso"
     },
     "stockings": {
       "inglês": "stockings",
@@ -1270,39 +1334,43 @@
     },
     "strand": {
       "inglês": "strand",
-      "português": "retorcido, trançado; fio (dependendo do contexto)"
+      "português": "fio; trabalho em tricô colorido em que o fio da cor não usada é passado pelo avesso do trabalho até ser necessário"
     },
     "stranded": {
       "inglês": "yarn that stay behind the work; float",
-      "português": "fio que fica retorcido, trançado atrás do trabalho quando trabalhamos com diferentes fios"
+      "português": "fio passado pelo avesso do trabalho no trabalho com mais de uma cor"
     },
     "strap": {
       "inglês": "strap",
-      "português": "faixa"
+      "português": "alça (de blusa), faixa"
     },
     "stretch": {
       "inglês": "stretch",
-      "português": "esticar, distender"
+      "português": "esticar, estender"
     },
     "swatch": {
       "inglês": "swatch",
       "português": "amostra"
     },
-    "switch_to_colour_B": {
-      "inglês": "switch to colour (ou: color) B",
+    "switch to colour B": {
+      "inglês": "switch to color/colour B",
       "português": "mude para a cor b"
     },
-    "switch_to_double-pointed_needles": {
+    "switch to double-pointed needles": {
       "inglês": "switch to double-pointed needles",
       "português": "passe para agulhas de duas pontas"
     },
-    "switch_to_second_colour": {
+    "switch to second colour": {
       "inglês": "switch to second colour (ou: color)",
       "português": "mude para a segunda cor"
     },
     "tank": {
-      "inglês": "tank",
-      "português": "tipo de blusa curtinha"
+      "inglês": "tank top",
+      "português": "blusa curta sem mangas, regata curta"
+    },
+    "tbl": {
+      "inglês": "through the back loop(s)",
+      "português": "pelo fio de trás do ponto, torcido"
     },
     "tension": {
       "inglês": "tension",
@@ -1310,7 +1378,7 @@
     },
     "thick": {
       "inglês": "thick; thicker",
-      "português": "espesso; mais espesso"
+      "português": "grosso, espesso; mais espesso"
     },
     "thickness": {
       "inglês": "thickness",
@@ -1322,7 +1390,7 @@
     },
     "thread": {
       "inglês": "thread",
-      "português": "fio, pedaço de fio"
+      "português": "linha, fio, pedaço de fio"
     },
     "three times": {
       "inglês": "three times",
@@ -1336,13 +1404,17 @@
       "inglês": "through",
       "português": "através"
     },
-    "tbl": {
-      "inglês": "through the back loop(s)",
-      "português": "pegar o ponto por trás"
+    "thumb": {
+      "inglês": "thumb",
+      "português": "polegar"
     },
     "tight": {
       "inglês": "tight",
-      "português": "apertado"
+      "português": "justo, apertado"
+    },
+    "tink": {
+      "inglês": "tink",
+      "português": "desmanchar os pontos um a um, destricotar"
     },
     "tip": {
       "inglês": "tip",
@@ -1350,11 +1422,11 @@
     },
     "to cast off stitches": {
       "inglês": "to cast off stitches",
-      "português": "rematar pontos de tricô"
+      "português": "arrematar os pontos"
     },
-    "toes": {
-      "inglês": "toes",
-      "português": "dedos dos pés"
+    "toe": {
+      "inglês": "toe",
+      "português": "dedo dos pé, ponta do pé"
     },
     "tog": {
       "inglês": "together",
@@ -1368,7 +1440,7 @@
       "inglês": "toward",
       "português": "em direção a"
     },
-    "transfer_stitches": {
+    "transfer stitches": {
       "inglês": "transfer stitches",
       "português": "transferir os pontos"
     },
@@ -1380,13 +1452,13 @@
       "inglês": "triple",
       "português": "triplo"
     },
-    "triple_yarn_over": {
+    "triple yarn over": {
       "inglês": "triple yarn over",
       "português": "laçada tripla"
     },
     "turn": {
       "inglês": "turn",
-      "português": "voltar"
+      "português": "virar, voltar"
     },
     "twice": {
       "inglês": "twice",
@@ -1396,27 +1468,27 @@
       "inglês": "twist",
       "português": "torcer"
     },
-    "twisted_stitch": {
+    "twisted stitch": {
       "inglês": "twisted stitch",
       "português": "ponto torcido"
     },
-    "uneven_row": {
+    "uneven row": {
       "inglês": "uneven row",
-      "português": "carreira ímpar"
+      "português": "carreira irregular"
     },
     "until": {
       "inglês": "until",
       "português": "até"
     },
-    "upper_arm": {
+    "upper arm": {
       "inglês": "upper arm",
-      "português": "medida da circunferência do braço"
+      "português": "parte do braço entre o ombro e o cotovelo"
     },
     "upward(s)": {
       "inglês": "upward(s)",
       "português": "para cima"
     },
-    "use_yarn_double": {
+    "use yarn double": {
       "inglês": "use yarn double",
       "português": "use fio duplo"
     },
@@ -1424,23 +1496,27 @@
       "inglês": "usual",
       "português": "costumeiro"
     },
-    "usual_manner": {
+    "usual manner": {
       "inglês": "usual manner",
-      "português": "a maneira de sempre"
+      "português": "como sempre, do jeito de sempre"
     },
-    "variegated_yarn": {
+    "variegated yarn": {
       "inglês": "variegated yarn",
       "português": "fio matizado, multicolorido"
     },
     "w&t": {
-      "inglês": "W&T – wrap and turn",
-      "português": "enrolar e voltar"
+      "inglês": "wrap and turn",
+      "português": "envolver e voltar"
     },
-    "wash_in_mild_soap": {
+    "waist": {
+      "inglês": "waist",
+      "português": "cintura"
+    },
+    "wash in mild soap": {
       "inglês": "wash in mild soap",
-      "português": "lavar com sabão neutro"
+      "português": "lavar com sabão neutro/delicado"
     },
-    "weave_in_ends": {
+    "weave in ends": {
       "inglês": "weave in ends",
       "português": "esconder as pontas"
     },
@@ -1464,18 +1540,6 @@
       "inglês": "with",
       "português": "com"
     },
-    "wyib": {
-      "inglês": "with yarn backward/behind",
-      "português": "trabalhe com o fio para trás"
-    },
-    "Wyb": {
-      "inglês": "with yarn in back",
-      "português": "fio atrás do trabalho"
-    },
-    "Wyf": {
-      "inglês": "with yarn in front",
-      "português": "fio na frente do trabalho"
-    },
     "without": {
       "inglês": "without",
       "português": "sem"
@@ -1492,17 +1556,17 @@
       "inglês": "woolwinder",
       "português": "enrolador de lã"
     },
-    "work_even": {
+    "work even": {
       "inglês": "work even",
       "português": "trabalhar sem alterações no ponto escolhido"
     },
-    "work_in_ends": {
+    "work in ends": {
       "inglês": "work in ends",
       "português": "esconder as pontas"
     },
-    "work_plain": {
+    "work plain": {
       "inglês": "work plain",
-      "português": "trabalhar em ponto liso"
+      "português": "trabalhar em ponto liso ou jérsei (direito em meia, avesso em madeira)"
     },
     "wrist": {
       "inglês": "wrist",
@@ -1510,11 +1574,23 @@
     },
     "ws": {
       "inglês": "wrong side",
-      "português": "lado avesso"
+      "português": "lado do avesso"
+    },
+    "wyib": {
+      "inglês": "with yarn in back/behind",
+      "português": "com o fio atrás"
+    },
+    "Wyb": {
+      "inglês": "with yarn in back",
+      "português": "com o fio atrás"
     },
     "wyif": {
-      "inglês": "wyif (with yarn forward/in front",
-      "português": "trabalhe com o fio para a frente"
+      "inglês": "with yarn in front",
+      "português": "com o fio na frente"
+    },
+    "Wyf": {
+      "inglês": "with yarn in front",
+      "português": "com o fio na frente"
     },
     "yard": {
       "inglês": "yard",
@@ -1522,7 +1598,7 @@
     },
     "yardage": {
       "inglês": "yardage",
-      "português": "medida linear do fio"
+      "português": "metragem; medida linear do fio"
     },
     "yarn": {
       "inglês": "yarn",
@@ -1530,27 +1606,27 @@
     },
     "yb": {
       "inglês": "yarn (to the) back",
-      "português": "fio atrás"
+      "português": "fio atrás (para trás)"
     },
     "y2b": {
-      "inglês": "yarn back",
+      "inglês": "yarn to back",
       "português": "fio para trás"
     },
     "yf": {
       "inglês": "yarn front",
       "português": "fio para a frente"
     },
-    "yarn_needle": {
+    "y2f": {
+      "inglês": "yarn to the front",
+      "português": "fio para a frente"
+    },
+    "yarn needle": {
       "inglês": "yarn needle",
       "português": "agulha de tapeçaria"
     },
     "yo": {
       "inglês": "yarn over needle",
       "português": "passar o fio sobre a agulha; laçada"
-    },
-    "yarn_to_the_front (y2f)": {
-      "inglês": "yarn to the front",
-      "português": "fio para a frente"
     }
   }
   
