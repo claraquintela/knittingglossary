@@ -20,6 +20,7 @@ header{
     display: flex;
     position: fixed;
     align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: space-around;
     
     img {
         width: 25%;
@@ -28,7 +29,9 @@ header{
     ul {
         display: flex;
         justify-content: space-around;
-        width: 200%;
+        align-items: center;
+        width: 100%;
+        gap: 1rem;
         background-color: #F5F7F8;
         border-radius: 100px;
         padding: 1rem;
@@ -159,6 +162,7 @@ footer {
 }
 
 @media (max-width: 768px) {
+
     h1 {
         font-size: 2rem; /* Tamanho da fonte em telas menores */
         letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
@@ -181,6 +185,11 @@ footer {
 
 /* Responsividade para celulares */
 @media (max-width: 480px) {
+
+   footer {
+    display: none;
+   }
+
 
     h1 {
         font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
